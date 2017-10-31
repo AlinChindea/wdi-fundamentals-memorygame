@@ -44,6 +44,25 @@ main {
 	margin: 35px auto;
 }
 
+.how, .why {
+	width: 46%;
+	padding: 2%;
+	display: inline-block;
+
+}
+
+.how {
+	float: left;
+}
+
+.why {
+	float: right;
+}
+
+#game-board {
+	clear: both;
+}
+
 h2 {
 	font-family: "Raleway", sans-serif;
 	color: #0D2C40;
